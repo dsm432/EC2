@@ -1,5 +1,5 @@
 install_apache:
-  pkg.installed:
+pkg.installed:
     - pkgs:
       - httpd
 
